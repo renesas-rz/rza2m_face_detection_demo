@@ -1,0 +1,260 @@
+* sampling finished ...
+	** elapsed time: 0
+	** cascade TPR=1.00000000 (77832/77832)
+	** cascade FPR=0.98374581 (77832/79118)
+* learning a new stage ...
+	** tree 1 (15 [s]) ... stage tpr=0.991058, stage fpr=0.581933 threshold=-0.877812
+
+* sampling finished ...
+	** elapsed time: 1
+	** cascade TPR=0.99105763 (77136/77832)
+	** cascade FPR=0.57241660 (77136/134755)
+* learning a new stage ...
+	** tree 2 (15 [s]) ... stage tpr=0.990005, stage fpr=0.537739 threshold=-1.277824
+
+* sampling finished ...
+	** elapsed time: 1
+	** cascade TPR=0.98115170 (76365/77832)
+	** cascade FPR=0.30932409 (76365/246877)
+* learning a new stage ...
+	** tree 3 (15 [s]) ... stage tpr=0.990061, stage fpr=0.625915 threshold=-1.377828
+	** tree 4 (14 [s]) ... stage tpr=0.990035, stage fpr=0.477680 threshold=-1.490834
+
+* sampling finished ...
+	** elapsed time: 2
+	** cascade TPR=0.96745557 (75299/77832)
+	** cascade FPR=0.13615693 (75299/553031)
+* learning a new stage ...
+	** tree 5 (14 [s]) ... stage tpr=0.990013, stage fpr=0.595254 threshold=-1.453832
+
+* sampling finished ...
+	** elapsed time: 1
+	** cascade TPR=0.95779371 (74547/77832)
+	** cascade FPR=0.08145023 (74547/915246)
+* learning a new stage ...
+	** tree 6 (15 [s]) ... stage tpr=0.990006, stage fpr=0.624787 threshold=-1.498834
+	** tree 7 (14 [s]) ... stage tpr=0.990020, stage fpr=0.531141 threshold=-1.574837
+
+* sampling finished ...
+	** elapsed time: 3
+	** cascade TPR=0.94431597 (73498/77832)
+	** cascade FPR=0.04002555 (73498/1836277)
+* learning a new stage ...
+	** tree 8 (14 [s]) ... stage tpr=0.990054, stage fpr=0.641351 threshold=-1.529835
+	** tree 9 (14 [s]) ... stage tpr=0.990013, stage fpr=0.548423 threshold=-1.586838
+
+* sampling finished ...
+	** elapsed time: 8
+	** cascade TPR=0.93104380 (72465/77832)
+	** cascade FPR=0.02005298 (72465/3613677)
+* learning a new stage ...
+	** tree 10 (16 [s]) ... stage tpr=0.990009, stage fpr=0.651418 threshold=-1.543836
+	** tree 11 (15 [s]) ... stage tpr=0.990009, stage fpr=0.586835 threshold=-1.619840
+
+* sampling finished ...
+	** elapsed time: 14
+	** cascade TPR=0.91827267 (71471/77832)
+	** cascade FPR=0.01080132 (71471/6616879)
+* learning a new stage ...
+	** tree 12 (14 [s]) ... stage tpr=0.990010, stage fpr=0.631277 threshold=-1.537836
+	** tree 13 (15 [s]) ... stage tpr=0.990038, stage fpr=0.569993 threshold=-1.613839
+
+* sampling finished ...
+	** elapsed time: 25
+	** cascade TPR=0.90597695 (70514/77832)
+	** cascade FPR=0.00567382 (70514/12427967)
+* scanning in progress (0/5)
+* starting training with np=672739, nn=308599 ...
+* learning a new stage ...
+	** tree 14 (123 [s]) ... stage tpr=0.980138, stage fpr=0.755019 threshold=-1.376828
+	** tree 15 (140 [s]) ... stage tpr=0.980123, stage fpr=0.692634 threshold=-1.424830
+	** tree 16 (140 [s]) ... stage tpr=0.980111, stage fpr=0.635167 threshold=-1.437831
+	** tree 17 (141 [s]) ... stage tpr=0.980125, stage fpr=0.597060 threshold=-1.444831
+	** tree 18 (136 [s]) ... stage tpr=0.980142, stage fpr=0.567785 threshold=-1.444831
+	** tree 19 (144 [s]) ... stage tpr=0.980119, stage fpr=0.537105 threshold=-1.452832
+	** tree 20 (132 [s]) ... stage tpr=0.980126, stage fpr=0.513786 threshold=-1.449832
+	** tree 21 (133 [s]) ... stage tpr=0.980130, stage fpr=0.489004 threshold=-1.444831
+	** tree 22 (138 [s]) ... stage tpr=0.980113, stage fpr=0.464872 threshold=-1.442831
+	** tree 23 (137 [s]) ... stage tpr=0.980120, stage fpr=0.445993 threshold=-1.430831
+	** tree 24 (140 [s]) ... stage tpr=0.980119, stage fpr=0.424933 threshold=-1.427831
+	** tree 25 (137 [s]) ... stage tpr=0.980119, stage fpr=0.408880 threshold=-1.424830
+	** tree 26 (138 [s]) ... stage tpr=0.980117, stage fpr=0.393883 threshold=-1.410830
+	** tree 27 (133 [s]) ... stage tpr=0.980101, stage fpr=0.377710 threshold=-1.410830
+	** tree 28 (133 [s]) ... stage tpr=0.980110, stage fpr=0.364010 threshold=-1.395829
+	** tree 29 (137 [s]) ... stage tpr=0.980125, stage fpr=0.350277 threshold=-1.387829
+* sampling finished ...
+	** elapsed time: 62
+	** cascade TPR=0.88215643 (68660/77832)
+	** cascade FPR=0.00253461 (68660/27088937)
+* scanning in progress (1/5)
+* starting training with np=642499, nn=275890 ...
+* learning a new stage ...
+	** tree 30 (126 [s]) ... stage tpr=0.980112, stage fpr=0.638780 threshold=-1.349827
+	** tree 31 (123 [s]) ... stage tpr=0.980138, stage fpr=0.611294 threshold=-1.537836
+	** tree 32 (133 [s]) ... stage tpr=0.980154, stage fpr=0.589492 threshold=-1.554837
+	** tree 33 (128 [s]) ... stage tpr=0.980126, stage fpr=0.566015 threshold=-1.546836
+	** tree 34 (129 [s]) ... stage tpr=0.980128, stage fpr=0.553054 threshold=-1.556837
+	** tree 35 (122 [s]) ... stage tpr=0.980123, stage fpr=0.533807 threshold=-1.552836
+	** tree 36 (115 [s]) ... stage tpr=0.980109, stage fpr=0.519087 threshold=-1.551836
+	** tree 37 (100 [s]) ... stage tpr=0.980112, stage fpr=0.504759 threshold=-1.549836
+	** tree 38 (102 [s]) ... stage tpr=0.980157, stage fpr=0.488749 threshold=-1.541836
+	** tree 39 (117 [s]) ... stage tpr=0.980101, stage fpr=0.473145 threshold=-1.533836
+	** tree 40 (107 [s]) ... stage tpr=0.980124, stage fpr=0.463163 threshold=-1.528835
+	** tree 41 (110 [s]) ... stage tpr=0.980118, stage fpr=0.449806 threshold=-1.523835
+	** tree 42 (110 [s]) ... stage tpr=0.980118, stage fpr=0.437254 threshold=-1.521835
+	** tree 43 (109 [s]) ... stage tpr=0.980114, stage fpr=0.428102 threshold=-1.522835
+	** tree 44 (110 [s]) ... stage tpr=0.980118, stage fpr=0.419109 threshold=-1.515835
+	** tree 45 (109 [s]) ... stage tpr=0.980101, stage fpr=0.410298 threshold=-1.509834
+	** tree 46 (110 [s]) ... stage tpr=0.980135, stage fpr=0.402439 threshold=-1.506834
+	** tree 47 (108 [s]) ... stage tpr=0.980132, stage fpr=0.393505 threshold=-1.502834
+	** tree 48 (107 [s]) ... stage tpr=0.980123, stage fpr=0.383055 threshold=-1.494834
+	** tree 49 (109 [s]) ... stage tpr=0.980132, stage fpr=0.374939 threshold=-1.489833
+	** tree 50 (108 [s]) ... stage tpr=0.980137, stage fpr=0.369176 threshold=-1.486833
+	** tree 51 (109 [s]) ... stage tpr=0.980106, stage fpr=0.363351 threshold=-1.479833
+	** tree 52 (110 [s]) ... stage tpr=0.980120, stage fpr=0.352046 threshold=-1.467832
+* sampling finished ...
+	** elapsed time: 164
+	** cascade TPR=0.85690975 (66695/77832)
+	** cascade FPR=0.00112002 (66695/59547877)
+* scanning in progress (2/5)
+* starting training with np=613680, nn=229557 ...
+* learning a new stage ...
+	** tree 53 (99 [s]) ... stage tpr=0.980133, stage fpr=0.638194 threshold=-1.438831
+	** tree 54 (101 [s]) ... stage tpr=0.980110, stage fpr=0.627217 threshold=-1.668842
+	** tree 55 (102 [s]) ... stage tpr=0.980131, stage fpr=0.622368 threshold=-1.674842
+	** tree 56 (99 [s]) ... stage tpr=0.980125, stage fpr=0.608616 threshold=-1.669842
+	** tree 57 (101 [s]) ... stage tpr=0.980133, stage fpr=0.603079 threshold=-1.665842
+	** tree 58 (101 [s]) ... stage tpr=0.980144, stage fpr=0.593931 threshold=-1.658841
+	** tree 59 (96 [s]) ... stage tpr=0.980104, stage fpr=0.582762 threshold=-1.658841
+	** tree 60 (100 [s]) ... stage tpr=0.980131, stage fpr=0.575713 threshold=-1.655841
+	** tree 61 (103 [s]) ... stage tpr=0.980126, stage fpr=0.562575 threshold=-1.649841
+	** tree 62 (101 [s]) ... stage tpr=0.980146, stage fpr=0.554067 threshold=-1.648841
+	** tree 63 (100 [s]) ... stage tpr=0.980138, stage fpr=0.545782 threshold=-1.643841
+	** tree 64 (99 [s]) ... stage tpr=0.980126, stage fpr=0.539073 threshold=-1.641841
+	** tree 65 (102 [s]) ... stage tpr=0.980128, stage fpr=0.530814 threshold=-1.638840
+	** tree 66 (96 [s]) ... stage tpr=0.980125, stage fpr=0.519540 threshold=-1.632840
+	** tree 67 (102 [s]) ... stage tpr=0.980135, stage fpr=0.512500 threshold=-1.632840
+	** tree 68 (104 [s]) ... stage tpr=0.980122, stage fpr=0.505434 threshold=-1.627840
+	** tree 69 (102 [s]) ... stage tpr=0.980104, stage fpr=0.498935 threshold=-1.622840
+	** tree 70 (101 [s]) ... stage tpr=0.980126, stage fpr=0.492104 threshold=-1.616839
+	** tree 71 (98 [s]) ... stage tpr=0.980107, stage fpr=0.483941 threshold=-1.613839
+	** tree 72 (102 [s]) ... stage tpr=0.980113, stage fpr=0.479023 threshold=-1.611839
+	** tree 73 (103 [s]) ... stage tpr=0.980115, stage fpr=0.468664 threshold=-1.606839
+	** tree 74 (96 [s]) ... stage tpr=0.980143, stage fpr=0.462909 threshold=-1.604839
+	** tree 75 (101 [s]) ... stage tpr=0.980102, stage fpr=0.451613 threshold=-1.598839
+	** tree 76 (101 [s]) ... stage tpr=0.980136, stage fpr=0.445850 threshold=-1.590838
+	** tree 77 (98 [s]) ... stage tpr=0.980123, stage fpr=0.441246 threshold=-1.589838
+	** tree 78 (101 [s]) ... stage tpr=0.980100, stage fpr=0.435417 threshold=-1.582838
+	** tree 79 (102 [s]) ... stage tpr=0.980126, stage fpr=0.429837 threshold=-1.575837
+	** tree 80 (101 [s]) ... stage tpr=0.980118, stage fpr=0.424518 threshold=-1.573837
+	** tree 81 (100 [s]) ... stage tpr=0.980100, stage fpr=0.420100 threshold=-1.572837
+	** tree 82 (102 [s]) ... stage tpr=0.980113, stage fpr=0.416027 threshold=-1.570837
+	** tree 83 (103 [s]) ... stage tpr=0.980133, stage fpr=0.410286 threshold=-1.562837
+	** tree 84 (102 [s]) ... stage tpr=0.980126, stage fpr=0.405224 threshold=-1.558837
+	** tree 85 (96 [s]) ... stage tpr=0.980100, stage fpr=0.398864 threshold=-1.552836
+	** tree 86 (101 [s]) ... stage tpr=0.980128, stage fpr=0.395078 threshold=-1.552836
+	** tree 87 (100 [s]) ... stage tpr=0.980105, stage fpr=0.388204 threshold=-1.545836
+	** tree 88 (102 [s]) ... stage tpr=0.980122, stage fpr=0.382641 threshold=-1.540836
+	** tree 89 (99 [s]) ... stage tpr=0.980107, stage fpr=0.378168 threshold=-1.537836
+	** tree 90 (102 [s]) ... stage tpr=0.980100, stage fpr=0.374957 threshold=-1.534836
+	** tree 91 (98 [s]) ... stage tpr=0.980104, stage fpr=0.370479 threshold=-1.530835
+	** tree 92 (100 [s]) ... stage tpr=0.980118, stage fpr=0.365330 threshold=-1.522835
+* sampling finished ...
+	** elapsed time: 273
+	** cascade TPR=0.82584286 (64277/77832)
+	** cascade FPR=0.00046793 (64277/137365624)
+* scanning in progress (3/5)
+* starting training with np=584140, nn=189880 ...
+* learning a new stage ...
+	** tree 93 (90 [s]) ... stage tpr=0.980107, stage fpr=0.664930 threshold=-1.539836
+	** tree 94 (92 [s]) ... stage tpr=0.980155, stage fpr=0.677775 threshold=-1.896852
+	** tree 95 (91 [s]) ... stage tpr=0.980137, stage fpr=0.686170 threshold=-1.924854
+	** tree 96 (90 [s]) ... stage tpr=0.980126, stage fpr=0.696013 threshold=-1.905853
+	** tree 97 (95 [s]) ... stage tpr=0.980135, stage fpr=0.696487 threshold=-1.890852
+	** tree 98 (92 [s]) ... stage tpr=0.980142, stage fpr=0.693870 threshold=-1.881852
+	** tree 99 (94 [s]) ... stage tpr=0.980133, stage fpr=0.692221 threshold=-1.873851
+	** tree 100 (92 [s]) ... stage tpr=0.980131, stage fpr=0.687113 threshold=-1.866851
+	** tree 101 (94 [s]) ... stage tpr=0.980131, stage fpr=0.683121 threshold=-1.862851
+	** tree 102 (93 [s]) ... stage tpr=0.980107, stage fpr=0.677038 threshold=-1.859851
+	** tree 103 (93 [s]) ... stage tpr=0.980114, stage fpr=0.668701 threshold=-1.851850
+	** tree 104 (91 [s]) ... stage tpr=0.980119, stage fpr=0.665699 threshold=-1.848850
+	** tree 105 (94 [s]) ... stage tpr=0.980121, stage fpr=0.658005 threshold=-1.844850
+	** tree 106 (92 [s]) ... stage tpr=0.980159, stage fpr=0.650806 threshold=-1.840850
+	** tree 107 (95 [s]) ... stage tpr=0.980102, stage fpr=0.645750 threshold=-1.836850
+	** tree 108 (94 [s]) ... stage tpr=0.980135, stage fpr=0.638925 threshold=-1.830849
+	** tree 109 (93 [s]) ... stage tpr=0.980121, stage fpr=0.631620 threshold=-1.829849
+	** tree 110 (93 [s]) ... stage tpr=0.980113, stage fpr=0.627612 threshold=-1.823849
+	** tree 111 (93 [s]) ... stage tpr=0.980128, stage fpr=0.622762 threshold=-1.821849
+	** tree 112 (93 [s]) ... stage tpr=0.980119, stage fpr=0.616437 threshold=-1.815849
+	** tree 113 (92 [s]) ... stage tpr=0.980116, stage fpr=0.611333 threshold=-1.814849
+	** tree 114 (88 [s]) ... stage tpr=0.980123, stage fpr=0.602728 threshold=-1.810848
+	** tree 115 (92 [s]) ... stage tpr=0.980101, stage fpr=0.598367 threshold=-1.807848
+	** tree 116 (95 [s]) ... stage tpr=0.980135, stage fpr=0.592084 threshold=-1.800848
+	** tree 117 (96 [s]) ... stage tpr=0.980128, stage fpr=0.586339 threshold=-1.795848
+	** tree 118 (92 [s]) ... stage tpr=0.980118, stage fpr=0.580609 threshold=-1.792848
+	** tree 119 (93 [s]) ... stage tpr=0.980137, stage fpr=0.577054 threshold=-1.787847
+	** tree 120 (93 [s]) ... stage tpr=0.980119, stage fpr=0.574552 threshold=-1.786847
+	** tree 121 (94 [s]) ... stage tpr=0.980121, stage fpr=0.570924 threshold=-1.784847
+	** tree 122 (95 [s]) ... stage tpr=0.980121, stage fpr=0.565283 threshold=-1.780847
+	** tree 123 (95 [s]) ... stage tpr=0.980104, stage fpr=0.563619 threshold=-1.780847
+	** tree 124 (92 [s]) ... stage tpr=0.980142, stage fpr=0.558353 threshold=-1.778847
+	** tree 125 (92 [s]) ... stage tpr=0.980102, stage fpr=0.550195 threshold=-1.770847
+	** tree 126 (92 [s]) ... stage tpr=0.980102, stage fpr=0.545113 threshold=-1.769847
+	** tree 127 (88 [s]) ... stage tpr=0.980101, stage fpr=0.539130 threshold=-1.763846
+	** tree 128 (94 [s]) ... stage tpr=0.980111, stage fpr=0.534801 threshold=-1.761846
+	** tree 129 (94 [s]) ... stage tpr=0.980116, stage fpr=0.530145 threshold=-1.759846
+	** tree 130 (94 [s]) ... stage tpr=0.980118, stage fpr=0.524236 threshold=-1.757846
+	** tree 131 (93 [s]) ... stage tpr=0.980113, stage fpr=0.519944 threshold=-1.754846
+	** tree 132 (94 [s]) ... stage tpr=0.980101, stage fpr=0.517295 threshold=-1.752846
+* sampling finished ...
+	** elapsed time: 494
+	** cascade TPR=0.79620206 (61970/77832)
+	** cascade FPR=0.00025194 (61970/245968021)
+* scanning in progress (4/5)
+* starting training with np=556244, nn=222566 ...
+* learning a new stage ...
+	** tree 133 (93 [s]) ... stage tpr=0.980144, stage fpr=0.728373 threshold=-1.739845
+	** tree 134 (92 [s]) ... stage tpr=0.980144, stage fpr=0.738132 threshold=-1.956855
+	** tree 135 (95 [s]) ... stage tpr=0.980142, stage fpr=0.742791 threshold=-1.957855
+	** tree 136 (95 [s]) ... stage tpr=0.980133, stage fpr=0.742732 threshold=-1.949855
+	** tree 137 (93 [s]) ... stage tpr=0.980145, stage fpr=0.741789 threshold=-1.938854
+	** tree 138 (93 [s]) ... stage tpr=0.980124, stage fpr=0.737148 threshold=-1.929854
+	** tree 139 (93 [s]) ... stage tpr=0.980115, stage fpr=0.734142 threshold=-1.923854
+	** tree 140 (95 [s]) ... stage tpr=0.980117, stage fpr=0.730363 threshold=-1.917853
+	** tree 141 (95 [s]) ... stage tpr=0.980111, stage fpr=0.730350 threshold=-1.917853
+	** tree 142 (94 [s]) ... stage tpr=0.980104, stage fpr=0.725677 threshold=-1.912853
+	** tree 143 (95 [s]) ... stage tpr=0.980142, stage fpr=0.723219 threshold=-1.910853
+	** tree 144 (96 [s]) ... stage tpr=0.980135, stage fpr=0.716857 threshold=-1.907853
+	** tree 145 (94 [s]) ... stage tpr=0.980100, stage fpr=0.711645 threshold=-1.901853
+	** tree 146 (93 [s]) ... stage tpr=0.980115, stage fpr=0.706258 threshold=-1.898853
+	** tree 147 (92 [s]) ... stage tpr=0.980124, stage fpr=0.702376 threshold=-1.897853
+	** tree 148 (93 [s]) ... stage tpr=0.980120, stage fpr=0.698247 threshold=-1.893852
+	** tree 149 (95 [s]) ... stage tpr=0.980104, stage fpr=0.693376 threshold=-1.889852
+	** tree 150 (93 [s]) ... stage tpr=0.980142, stage fpr=0.690047 threshold=-1.890852
+	** tree 151 (94 [s]) ... stage tpr=0.980111, stage fpr=0.686057 threshold=-1.889852
+	** tree 152 (97 [s]) ... stage tpr=0.980120, stage fpr=0.681605 threshold=-1.883852
+	** tree 153 (94 [s]) ... stage tpr=0.980120, stage fpr=0.676559 threshold=-1.878852
+	** tree 154 (94 [s]) ... stage tpr=0.980106, stage fpr=0.673086 threshold=-1.878852
+	** tree 155 (95 [s]) ... stage tpr=0.980120, stage fpr=0.667609 threshold=-1.876852
+	** tree 156 (91 [s]) ... stage tpr=0.980127, stage fpr=0.661912 threshold=-1.870851
+	** tree 157 (91 [s]) ... stage tpr=0.980117, stage fpr=0.658996 threshold=-1.868851
+	** tree 158 (96 [s]) ... stage tpr=0.980106, stage fpr=0.655940 threshold=-1.865851
+	** tree 159 (94 [s]) ... stage tpr=0.980113, stage fpr=0.651524 threshold=-1.863851
+	** tree 160 (95 [s]) ... stage tpr=0.980115, stage fpr=0.647740 threshold=-1.863851
+	** tree 161 (96 [s]) ... stage tpr=0.980104, stage fpr=0.645072 threshold=-1.860851
+	** tree 162 (97 [s]) ... stage tpr=0.980102, stage fpr=0.639756 threshold=-1.858851
+	** tree 163 (93 [s]) ... stage tpr=0.980120, stage fpr=0.634392 threshold=-1.853850
+	** tree 164 (97 [s]) ... stage tpr=0.980147, stage fpr=0.630595 threshold=-1.853850
+	** tree 165 (95 [s]) ... stage tpr=0.980133, stage fpr=0.625805 threshold=-1.848850
+	** tree 166 (95 [s]) ... stage tpr=0.980122, stage fpr=0.621106 threshold=-1.845850
+	** tree 167 (93 [s]) ... stage tpr=0.980106, stage fpr=0.617075 threshold=-1.844850
+	** tree 168 (94 [s]) ... stage tpr=0.980153, stage fpr=0.615642 threshold=-1.843850
+	** tree 169 (93 [s]) ... stage tpr=0.980118, stage fpr=0.609437 threshold=-1.838850
+	** tree 170 (96 [s]) ... stage tpr=0.980100, stage fpr=0.607662 threshold=-1.836850
+	** tree 171 (94 [s]) ... stage tpr=0.980127, stage fpr=0.602042 threshold=-1.832850
+	** tree 172 (92 [s]) ... stage tpr=0.980111, stage fpr=0.599220 threshold=-1.830849
+* sampling finished ...
+	** elapsed time: 747
+	** cascade TPR=0.76597029 (59617/77832)
+	** cascade FPR=0.00015936 (59617/374095082)
+* learning process finished

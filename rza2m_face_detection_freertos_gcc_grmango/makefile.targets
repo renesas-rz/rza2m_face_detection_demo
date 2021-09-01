@@ -1,0 +1,3 @@
+drp_parallel_sample.elf: ../generate/linker_script.ld
+
+# vim:noexpandtab:

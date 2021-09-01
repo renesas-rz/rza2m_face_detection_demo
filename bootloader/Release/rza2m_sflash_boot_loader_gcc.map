@@ -1,0 +1,2005 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/hwsetup.o
+ .text          0x00000000        0x0 ./generate/system/hwsetup.o
+ .data          0x00000000        0x0 ./generate/system/hwsetup.o
+ .bss           0x00000000        0x0 ./generate/system/hwsetup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/system/r_spibsc_setup.o
+ .text          0x00000000        0x0 ./generate/system/r_spibsc_setup.o
+ .data          0x00000000        0x0 ./generate/system/r_spibsc_setup.o
+ .bss           0x00000000        0x0 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x8b0 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x174 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x22 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x87 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x51 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0xef ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x6a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x1df ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x58 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x35 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x9c ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x58 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x1f ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x43 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x20 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x187 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x330 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000      0x1e1 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x22 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x18 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x18 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x1f ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x18 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0xab ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x49 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x57 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x1c ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x12 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x26 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x1f ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x26 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x2d ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x18 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x18 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x26 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x26 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00000000       0x11 ./generate/system/r_spibsc_setup.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text          0x00000000        0x0 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .data          0x00000000        0x0 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.is_clock_supplied
+                0x00000000       0x58 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_RequestModuleStart
+                0x00000000       0xe8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_RequestModuleStop
+                0x00000000       0xec ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_StopModule
+                0x00000000       0x6c ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_StartModule
+                0x00000000       0x6c ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_SetModuleResetState
+                0x00000000       0xfc ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_GetModuleResetState
+                0x00000000       0x88 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .text.R_STB_GetVersion
+                0x00000000       0x28 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .rodata.R_STB_GetVersion.str1.1
+                0x00000000       0x12 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .rodata.gs_stback
+                0x00000000       0xa8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .rodata.gs_stbcr
+                0x00000000      0x24c ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .rodata.gs_stbreq
+                0x00000000       0xa8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .rodata.gs_swrstcr
+                0x00000000       0x78 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_info    0x00000000     0x22b7 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_abbrev  0x00000000      0x3a5 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_loc     0x00000000      0x5a1 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_aranges
+                0x00000000       0x58 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_ranges  0x00000000      0x138 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x4fd ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x8d ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x111 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0xab ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x49 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x12 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x2d ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x34 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x666 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x754 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x690 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x85e ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x70fc ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x62e ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x372 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0xdd6 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x14f2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x1092 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x17e ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x48ae ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x3a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x3e2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0xb2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0xe54 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x5f6 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x460 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x5e ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x700 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x310 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x1ba ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x7b6 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0xe02a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x78b2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x3f0 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x6ba ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x3b8 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x2ae ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x226 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x834 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x3c6 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x4c2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0xc6a ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x2442 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000     0x22f2 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000      0x5be ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x82 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_line    0x00000000      0xda4 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_str     0x00000000   0x12255b ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .comment       0x00000000       0x80 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .debug_frame   0x00000000      0x100 ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .ARM.attributes
+                0x00000000       0x3d ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .text          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .data          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x87 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x51 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .data          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.R_SPIBSC_FlushReadCache
+                0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.R_SPIBSC_XipStopAccess
+                0x00000000        0x4 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.R_SPIBSC_GetVersion
+                0x00000000       0x28 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .rodata.R_SPIBSC_GetVersion.str1.1
+                0x00000000       0x15 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0xab ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x49 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x12 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x2d ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x87 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x51 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x118 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x666 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x754 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x690 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x85e ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x70fc ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x62e ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x372 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0xdd6 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x14f2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x1092 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x17e ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x48ae ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x3a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x3e2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0xb2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0xe54 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x5f6 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x460 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x5e ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x700 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x310 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x1ba ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x7b6 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0xe02a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x78b2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x3f0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x6ba ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x3b8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x2ae ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x226 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x834 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x3c6 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x4c2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0xc6a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x2442 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000     0x22f2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000      0x5be ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x82 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x00000000       0x34 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .data          0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text.Userdef_SPIBSC_SFLASH_WaitReady
+                0x00000000       0x20 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text.Userdef_SPIBSC_SFLASH_Read
+                0x00000000       0x78 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text.Userdef_SPIBSC_SFLASH_ReadId
+                0x00000000       0x28 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text.Userdef_SPIBSC_SFLASH_Write
+                0x00000000       0x40 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .text.Userdef_SPIBSC_SFLASH_Erase
+                0x00000000       0x38 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0xab ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x49 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x12 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x2d ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x87 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x51 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000      0x118 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .text          0x00000000        0x0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data          0x00000000        0x0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .text.R_CPG_UninitialiseHwIf
+                0x00000000        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .text.R_CPG_GetClock
+                0x00000000       0xc8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .text.R_CPG_GetVersion
+                0x00000000       0x28 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .rodata.R_CPG_GetVersion.str1.1
+                0x00000000       0x12 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x87 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x51 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x34 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0xab ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x49 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x12 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x2d ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x18 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x26 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x11 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x666 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x754 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x690 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x85e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x70fc ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x62e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x372 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0xdd6 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x14f2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x1092 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x17e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x364 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x48ae ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x3a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x3e2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0xb2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0xe54 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x5f6 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x460 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x5e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x700 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x310 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x1ba ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x7b6 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x25a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0xe02a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x78b2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x3f0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x6ba ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x3b8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x2ae ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x226 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x834 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x3c6 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x4c2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0xc6a ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x232 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x2442 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000     0x22f2 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x5be ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x82 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x40 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x40 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0xd7 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x18b ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x29 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x1da ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000      0x122 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x34 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .text          0x00000000        0x0 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .data          0x00000000        0x0 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .bss           0x00000000        0x0 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .text.cpg_close
+                0x00000000       0x1c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .text.cpg_get_version
+                0x00000000       0x28 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .text.cpg_open
+                0x00000000       0x60 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .text.cpg_control
+                0x00000000       0x64 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .bss.gs_drv_cpg_is_initialized
+                0x00000000        0x4 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .bss.s_drv_config
+                0x00000000        0x2 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .rodata.cpg_get_version.str1.1
+                0x00000000        0x8 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .rodata.g_cpg_driver
+                0x00000000       0x1c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .rodata.str1.1
+                0x00000000       0x12 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_info    0x00000000     0x11e9 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_abbrev  0x00000000      0x32c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_loc     0x00000000      0x1eb ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_aranges
+                0x00000000       0x38 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_ranges  0x00000000       0x28 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x308 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x8b0 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x8d ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x9c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x174 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x57 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x58 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x1f ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x43 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x20 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x187 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x330 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x35 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0xef ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x6a ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x1df ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x1e1 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x1c ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x52 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x40 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x40 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0xd7 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x18b ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x29 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x1da ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x16 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x41 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000      0x122 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x10 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x34 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x22 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_macro   0x00000000       0x28 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_line    0x00000000      0x58b ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_str     0x00000000     0x9546 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .comment       0x00000000       0x80 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .debug_frame   0x00000000       0x60 ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .ARM.attributes
+                0x00000000       0x3d ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .group         0x00000000        0x8 ./generate/compiler/init/sections.o
+ .text          0x00000000        0x0 ./generate/compiler/init/sections.o
+ .data          0x00000000        0x0 ./generate/compiler/init/sections.o
+ .bss           0x00000000        0x0 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x8b0 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x174 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x22 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x87 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x51 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0xef ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x6a ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x1df ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x58 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x35 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x9c ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x58 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x1f ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x43 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x20 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x187 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x330 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000      0x1e1 ./generate/compiler/init/sections.o
+ .debug_macro   0x00000000       0x22 ./generate/compiler/init/sections.o
+ .text          0x00000000        0x0 ./generate/compiler/asm/cpu.o
+ .data          0x00000000        0x0 ./generate/compiler/asm/cpu.o
+ .bss           0x00000000        0x0 ./generate/compiler/asm/cpu.o
+ .text.__set_sctlr
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__get_sctlr
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__set_cpsr
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__get_cpsr
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__set_vbar
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__get_vbar
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__wfi    0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__isb    0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__dsb    0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.__dmb    0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .text.R_SoftwareDelay
+                0x00000000       0x10 ./generate/compiler/asm/cpu.o
+ .ARM.extab.text.R_SoftwareDelay
+                0x00000000        0x0 ./generate/compiler/asm/cpu.o
+ .ARM.exidx.text.R_SoftwareDelay
+                0x00000000        0x8 ./generate/compiler/asm/cpu.o
+ .debug_line    0x00000000       0xfc ./generate/compiler/asm/cpu.o
+ .debug_info    0x00000000       0x85 ./generate/compiler/asm/cpu.o
+ .debug_abbrev  0x00000000       0x12 ./generate/compiler/asm/cpu.o
+ .debug_aranges
+                0x00000000       0x70 ./generate/compiler/asm/cpu.o
+ .debug_ranges  0x00000000       0x68 ./generate/compiler/asm/cpu.o
+ .ARM.attributes
+                0x00000000       0x2b ./generate/compiler/asm/cpu.o
+ .text          0x00000000        0x0 ./generate/compiler/asm/initsect.o
+ .data          0x00000000        0x0 ./generate/compiler/asm/initsect.o
+ .bss           0x00000000        0x0 ./generate/compiler/asm/initsect.o
+ .text          0x00000000        0x0 ./generate/compiler/asm/reset_handler.o
+ .data          0x00000000        0x0 ./generate/compiler/asm/reset_handler.o
+ .bss           0x00000000        0x0 ./generate/compiler/asm/reset_handler.o
+ .text          0x00000000        0x0 ./generate/compiler/asm/vector_table.o
+ .data          0x00000000        0x0 ./generate/compiler/asm/vector_table.o
+ .bss           0x00000000        0x0 ./generate/compiler/asm/vector_table.o
+ .text          0x00000000        0x0 ./generate/compiler/asm/vfp_init.o
+ .data          0x00000000        0x0 ./generate/compiler/asm/vfp_init.o
+ .bss           0x00000000        0x0 ./generate/compiler/asm/vfp_init.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+VECTOR_TABLE     0x20000000         0x00000100         xr
+HARDWARE_INIT_ROM 0x20000200         0x00003e00         xr
+ROM              0x20004000         0x0000c000         xr
+HARDWARE_INIT_RAM 0x80024000         0x00003e00         xrw
+STACK            0x80028000         0x00010000         rw
+RAM              0x80038000         0x002c8000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./generate/system/hwsetup.o
+LOAD ./generate/system/r_spibsc_setup.o
+LOAD ./generate/drivers/r_stb/src/lld/r_stb_lld_rza2m.o
+LOAD ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+LOAD ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+LOAD ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+LOAD ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+LOAD ./generate/drivers/r_cpg/src/hld/r_cpg_drv_api.o
+LOAD ./generate/compiler/init/sections.o
+LOAD ./generate/compiler/asm/cpu.o
+LOAD ./generate/compiler/asm/initsect.o
+LOAD ./generate/compiler/asm/reset_handler.o
+LOAD ./generate/compiler/asm/vector_table.o
+LOAD ./generate/compiler/asm/vfp_init.o
+START GROUP
+LOAD C:\\e2studio_Worksapce_v730\\rza2m_sflash_boot_loader_gcc\\Release\librza2m_sflash_boot_loader_gcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-ar/fpv3/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-ar/fpv3/hard\libstdc++.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-ar/fpv3/hard\libstdc++.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-ar/fpv3/hard\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-ar/fpv3/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-ar/fpv3/hard\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-ar/fpv3/hard\libc.a
+END GROUP
+                0x20010000                __application_base_address = 0x20010000
+
+LOAD_MODULE1    0x20000000       0x24
+ *(VECTOR_TABLE)
+ VECTOR_TABLE   0x20000000       0x24 ./generate/compiler/asm/vector_table.o
+                0x20000000                Start
+                0x20000000                vector_table
+                0x20000000                __vector_table_base = ADDR (LOAD_MODULE1)
+
+LOAD_MODULE4    0x80024000       0x30 load address 0x20000200
+ */r_spibsc_setup.o(.text .text.* .rodata .rodata.*)
+ .text.r_spibsc_setup
+                0x80024000       0x30 ./generate/system/r_spibsc_setup.o
+                0x80024000                r_spibsc_setup
+ */r_spibsc_setup.o(.data .data.*)
+                0x80024030                . = ALIGN (0x4)
+                0x20000200                __module4_load_start = LOADADDR (LOAD_MODULE4)
+                0x80024000                __module4_exec_start = ADDR (LOAD_MODULE4)
+                0x20000230                __module4_load_end = (LOADADDR (LOAD_MODULE4) + SIZEOF (LOAD_MODULE4))
+
+LOAD_MODULE2    0x80024040     0x1b00 load address 0x20000240
+ */r_cpg/*.o(.text .text.* .rodata .rodata.*)
+ .text.R_CPG_SetXtalClock
+                0x80024040      0x118 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x80024040                R_CPG_SetXtalClock
+ .text.R_CPG_SetMainClock
+                0x80024158       0x50 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x80024158                R_CPG_SetMainClock
+ .text.R_CPG_SetSubClockDividers
+                0x800241a8      0x340 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x800241a8                R_CPG_SetSubClockDividers
+ .text.R_CPG_SetSubClockSource
+                0x800244e8      0x168 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x800244e8                R_CPG_SetSubClockSource
+ .text.R_CPG_ConfigExtClockPin
+                0x80024650       0x90 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x80024650                R_CPG_ConfigExtClockPin
+ .text.R_CPG_InitialiseHwIf
+                0x800246e0       0xb0 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x800246e0                R_CPG_InitialiseHwIf
+ .rodata.s_sc_cpg_ext_clk_config
+                0x80024790        0x1 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ *fill*         0x80024791        0x7 
+ .rodata.s_sc_cpg_main_clock_config
+                0x80024798       0x10 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .rodata.s_sc_cpg_sub_clock_div_config
+                0x800247a8       0x30 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .rodata.s_sc_cpg_sub_clock_src_config
+                0x800247d8        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ EXCLUDE_FILE(*/r_spibsc_adjust_timing_data.o) */r_spibsc/*.o(.text .text.* .rodata .rodata.*)
+ .text.r_spibsc_manual_set_address
+                0x800247e0       0x98 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_manual_set_option_data
+                0x80024878       0xe4 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_manual_start_transfer
+                0x8002495c       0x20 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_wait_tend
+                0x8002497c       0x14 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_xip_stop_access
+                0x80024990       0x28 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_qspi_io_set_output_level
+                0x800249b8       0x88 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.r_spibsc_manual_set_datatransfer
+                0x80024a40       0x74 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.R_SPIBSC_Init
+                0x80024ab4      0x31c ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+                0x80024ab4                R_SPIBSC_Init
+ .text.R_SPIBSC_ChangeMode
+                0x80024dd0      0x35c ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+                0x80024dd0                R_SPIBSC_ChangeMode
+ .text.R_SPIBSC_SPICMDIssue
+                0x8002512c      0x438 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+                0x8002512c                R_SPIBSC_SPICMDIssue
+ .text.R_SPIBSC_AdjustPhy
+                0x80025564      0x170 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+                0x80025564                R_SPIBSC_AdjustPhy
+ .rodata.gs_command_table
+                0x800256d4      0x1c2 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .rodata.gs_spibsc_phy_adj
+                0x80025896       0x1a ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .rodata.gs_xip_read_table
+                0x800258b0       0x64 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .text.Userdef_SPIBSC_SFLASH_ReadStatus
+                0x80025914       0x3c ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                0x80025914                Userdef_SPIBSC_SFLASH_ReadStatus
+ .text.Userdef_SPIBSC_SFLASH_ReadConfig
+                0x80025950       0x38 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                0x80025950                Userdef_SPIBSC_SFLASH_ReadConfig
+ .text.Userdef_SPIBSC_SFLASH_WriteStatus
+                0x80025988       0x38 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                0x80025988                Userdef_SPIBSC_SFLASH_WriteStatus
+ .text.Userdef_SPIBSC_SFLASH_WriteEnable
+                0x800259c0       0x40 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                0x800259c0                Userdef_SPIBSC_SFLASH_WriteEnable
+ .text.Userdef_SPIBSC_SFLASH_SetMode
+                0x80025a00       0x6c ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                0x80025a00                Userdef_SPIBSC_SFLASH_SetMode
+ */hwsetup.o(.text .text.* .rodata .rodata.*)
+ .text.R_SC_HardwareSetup
+                0x80025a6c       0x98 ./generate/system/hwsetup.o
+                0x80025a6c                R_SC_HardwareSetup
+ *(.data .data.*)
+ .data.gs_cpg_bclk_divisor
+                0x80025b04        0x4 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data.gs_cpg_bclk_frequency_khz
+                0x80025b08        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data.gs_cpg_extal_frequency_khz
+                0x80025b10        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data.gs_cpg_iclk_divisor
+                0x80025b18        0x4 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ *fill*         0x80025b1c        0x4 
+ .data.gs_cpg_iclk_frequency_khz
+                0x80025b20        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data.gs_cpg_p1clk_divisor
+                0x80025b28        0x4 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ *fill*         0x80025b2c        0x4 
+ .data.gs_cpg_p1clk_frequency_khz
+                0x80025b30        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .data.gs_cpg_pll_frequency_khz
+                0x80025b38        0x8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x80025b40                . = ALIGN (0x4)
+                0x20000240                __module2_load_start = LOADADDR (LOAD_MODULE2)
+                0x80024040                __module2_exec_start = ADDR (LOAD_MODULE2)
+                0x20001d40                __module2_load_end = (LOADADDR (LOAD_MODULE2) + SIZEOF (LOAD_MODULE2))
+
+LOAD_MODULE3    0x20004000      0x420
+ *(RESET_HANDLER)
+ RESET_HANDLER  0x20004000      0x140 ./generate/compiler/asm/reset_handler.o
+                0x20004000                reset_handler
+                0x20004180                . = ALIGN (0x80)
+ *fill*         0x20004140       0x40 
+ *(INIT_SECTION)
+ INIT_SECTION   0x20004180      0x210 ./generate/compiler/asm/initsect.o
+                0x20004180                INITSCT
+ *(.text .text.*)
+ .text.Enable_VFP
+                0x20004390       0x24 ./generate/compiler/asm/vfp_init.o
+                0x20004390                Enable_VFP
+ *(.rodata .rodata.*)
+ .rodata.g_spibsc_test_pattern
+                0x200043b4        0x4 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+                0x200043b4                g_spibsc_test_pattern
+ .rodata.BTBL_F
+                0x200043b8       0x10 ./generate/compiler/init/sections.o
+                0x200043b8                BTBL_F
+ .rodata.BTBL_F2
+                0x200043c8        0x8 ./generate/compiler/init/sections.o
+                0x200043c8                BTBL_F2
+ .rodata.DTBL_F
+                0x200043d0       0x18 ./generate/compiler/init/sections.o
+                0x200043d0                DTBL_F
+ .rodata.DTBL_F2
+                0x200043e8       0x18 ./generate/compiler/init/sections.o
+                0x200043e8                DTBL_F2
+ .rodata.signature_fragment
+                0x20004400       0x20 ./generate/compiler/asm/reset_handler.o
+
+.glue_7         0x20004420        0x0
+ .glue_7        0x20004420        0x0 linker stubs
+
+.glue_7t        0x20004420        0x0
+ .glue_7t       0x20004420        0x0 linker stubs
+
+.vfp11_veneer   0x20004420        0x0
+ .vfp11_veneer  0x20004420        0x0 linker stubs
+
+.v4_bx          0x20004420        0x0
+ .v4_bx         0x20004420        0x0 linker stubs
+
+.iplt           0x20004420        0x0
+ .iplt          0x20004420        0x0 ./generate/system/hwsetup.o
+
+.igot.plt       0x20004420        0x0
+ .igot.plt      0x20004420        0x0 ./generate/system/hwsetup.o
+
+.rel.dyn        0x20004420        0x0
+ .rel.iplt      0x20004420        0x0 ./generate/system/hwsetup.o
+
+.bss            0x80038000       0x14
+                0x80038000                __bss_start = .
+ *(.bss .bss.* COMMON)
+ .bss.gs_ok_ng_result
+                0x80038000        0xd ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ *fill*         0x8003800d        0x3 
+ .bss.gs_drv_cpg_is_initialized
+                0x80038010        0x4 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                0x80038014                . = ALIGN (0x4)
+                0x80038014                __bss_end = .
+
+.stack          0x80028000     0x2000
+                0x80028000                __svc_stack_start = .
+                0x8002a000                . = (. + 0x2000)
+ *fill*         0x80028000     0x2000 
+                0x8002a000                . = ALIGN (0x10)
+                0x8002a000                __svc_stack_end = .
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x20004420        0x0
+                0x20004420                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x20004420                __exidx_end = .
+OUTPUT(rza2m_sflash_boot_loader_gcc.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x14743
+ .debug_info    0x00000000      0xee9 ./generate/system/hwsetup.o
+ .debug_info    0x00000ee9     0x26ca ./generate/system/r_spibsc_setup.o
+ .debug_info    0x000035b3      0x90f ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_info    0x00003ec2     0xab78 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_info    0x0000ea3a     0x1485 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_info    0x0000febf     0x3c1e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_info    0x00013add      0xa25 ./generate/compiler/init/sections.o
+ .debug_info    0x00014502       0x8e ./generate/compiler/asm/initsect.o
+ .debug_info    0x00014590       0x93 ./generate/compiler/asm/reset_handler.o
+ .debug_info    0x00014623       0x92 ./generate/compiler/asm/vector_table.o
+ .debug_info    0x000146b5       0x8e ./generate/compiler/asm/vfp_init.o
+
+.debug_abbrev   0x00000000     0x14be
+ .debug_abbrev  0x00000000      0x26b ./generate/system/hwsetup.o
+ .debug_abbrev  0x0000026b      0x2d4 ./generate/system/r_spibsc_setup.o
+ .debug_abbrev  0x0000053f      0x1be ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_abbrev  0x000006fd      0x48b ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_abbrev  0x00000b88      0x2df ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_abbrev  0x00000e67      0x445 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_abbrev  0x000012ac      0x1c2 ./generate/compiler/init/sections.o
+ .debug_abbrev  0x0000146e       0x14 ./generate/compiler/asm/initsect.o
+ .debug_abbrev  0x00001482       0x14 ./generate/compiler/asm/reset_handler.o
+ .debug_abbrev  0x00001496       0x14 ./generate/compiler/asm/vector_table.o
+ .debug_abbrev  0x000014aa       0x14 ./generate/compiler/asm/vfp_init.o
+
+.debug_loc      0x00000000     0x5bdb
+ .debug_loc     0x00000000       0x13 ./generate/system/hwsetup.o
+ .debug_loc     0x00000013       0xb2 ./generate/system/r_spibsc_setup.o
+ .debug_loc     0x000000c5     0x4b11 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_loc     0x00004bd6      0x303 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_loc     0x00004ed9      0xd02 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+
+.debug_aranges  0x00000000      0x240
+ .debug_aranges
+                0x00000000       0x20 ./generate/system/hwsetup.o
+ .debug_aranges
+                0x00000020       0x20 ./generate/system/r_spibsc_setup.o
+ .debug_aranges
+                0x00000040       0x18 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_aranges
+                0x00000058       0x88 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_aranges
+                0x000000e0       0x68 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_aranges
+                0x00000148       0x60 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_aranges
+                0x000001a8       0x18 ./generate/compiler/init/sections.o
+ .debug_aranges
+                0x000001c0       0x20 ./generate/compiler/asm/initsect.o
+ .debug_aranges
+                0x000001e0       0x20 ./generate/compiler/asm/reset_handler.o
+ .debug_aranges
+                0x00000200       0x20 ./generate/compiler/asm/vector_table.o
+ .debug_aranges
+                0x00000220       0x20 ./generate/compiler/asm/vfp_init.o
+
+.debug_ranges   0x00000000      0x930
+ .debug_ranges  0x00000000       0x10 ./generate/system/hwsetup.o
+ .debug_ranges  0x00000010       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_ranges  0x00000020      0x6e0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_ranges  0x00000700       0x58 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_ranges  0x00000758      0x1d8 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+
+.debug_macro    0x00000000    0x36c3d
+ .debug_macro   0x00000000      0x4c1 ./generate/system/hwsetup.o
+ .debug_macro   0x000004c1      0x8b0 ./generate/system/hwsetup.o
+ .debug_macro   0x00000d71      0x174 ./generate/system/hwsetup.o
+ .debug_macro   0x00000ee5       0x22 ./generate/system/hwsetup.o
+ .debug_macro   0x00000f07       0x87 ./generate/system/hwsetup.o
+ .debug_macro   0x00000f8e       0x51 ./generate/system/hwsetup.o
+ .debug_macro   0x00000fdf       0xef ./generate/system/hwsetup.o
+ .debug_macro   0x000010ce       0x6a ./generate/system/hwsetup.o
+ .debug_macro   0x00001138      0x1df ./generate/system/hwsetup.o
+ .debug_macro   0x00001317       0x58 ./generate/system/hwsetup.o
+ .debug_macro   0x0000136f       0x35 ./generate/system/hwsetup.o
+ .debug_macro   0x000013a4       0x9c ./generate/system/hwsetup.o
+ .debug_macro   0x00001440       0x58 ./generate/system/hwsetup.o
+ .debug_macro   0x00001498       0x1f ./generate/system/hwsetup.o
+ .debug_macro   0x000014b7       0x43 ./generate/system/hwsetup.o
+ .debug_macro   0x000014fa       0x20 ./generate/system/hwsetup.o
+ .debug_macro   0x0000151a      0x187 ./generate/system/hwsetup.o
+ .debug_macro   0x000016a1      0x330 ./generate/system/hwsetup.o
+ .debug_macro   0x000019d1      0x1e1 ./generate/system/hwsetup.o
+ .debug_macro   0x00001bb2       0x22 ./generate/system/hwsetup.o
+ .debug_macro   0x00001bd4       0x1c ./generate/system/hwsetup.o
+ .debug_macro   0x00001bf0       0x35 ./generate/system/hwsetup.o
+ .debug_macro   0x00001c25       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00001c35       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00001c45       0x1c ./generate/system/hwsetup.o
+ .debug_macro   0x00001c61       0x52 ./generate/system/hwsetup.o
+ .debug_macro   0x00001cb3       0x40 ./generate/system/hwsetup.o
+ .debug_macro   0x00001cf3       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00001d03       0x40 ./generate/system/hwsetup.o
+ .debug_macro   0x00001d43       0xd7 ./generate/system/hwsetup.o
+ .debug_macro   0x00001e1a       0x16 ./generate/system/hwsetup.o
+ .debug_macro   0x00001e30      0x18b ./generate/system/hwsetup.o
+ .debug_macro   0x00001fbb       0x16 ./generate/system/hwsetup.o
+ .debug_macro   0x00001fd1       0x16 ./generate/system/hwsetup.o
+ .debug_macro   0x00001fe7       0x29 ./generate/system/hwsetup.o
+ .debug_macro   0x00002010       0x16 ./generate/system/hwsetup.o
+ .debug_macro   0x00002026      0x1da ./generate/system/hwsetup.o
+ .debug_macro   0x00002200       0x16 ./generate/system/hwsetup.o
+ .debug_macro   0x00002216       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00002226       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00002236       0x35 ./generate/system/hwsetup.o
+ .debug_macro   0x0000226b      0x122 ./generate/system/hwsetup.o
+ .debug_macro   0x0000238d       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x0000239d       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x000023ad       0x34 ./generate/system/hwsetup.o
+ .debug_macro   0x000023e1       0x22 ./generate/system/hwsetup.o
+ .debug_macro   0x00002403       0x28 ./generate/system/hwsetup.o
+ .debug_macro   0x0000242b       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000243c       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000244d       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000245e       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000246f       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002480       0x18 ./generate/system/hwsetup.o
+ .debug_macro   0x00002498       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x000024a8       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000024b9       0x18 ./generate/system/hwsetup.o
+ .debug_macro   0x000024d1       0x1f ./generate/system/hwsetup.o
+ .debug_macro   0x000024f0       0x18 ./generate/system/hwsetup.o
+ .debug_macro   0x00002508       0xab ./generate/system/hwsetup.o
+ .debug_macro   0x000025b3       0x49 ./generate/system/hwsetup.o
+ .debug_macro   0x000025fc       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000260d       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000261e       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000262f       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x0000263f       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002650       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00002660       0x57 ./generate/system/hwsetup.o
+ .debug_macro   0x000026b7       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000026c8       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000026d9       0x1c ./generate/system/hwsetup.o
+ .debug_macro   0x000026f5       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002706       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002717       0x10 ./generate/system/hwsetup.o
+ .debug_macro   0x00002727       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002738       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002749       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000275a       0x12 ./generate/system/hwsetup.o
+ .debug_macro   0x0000276c       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x0000277d       0x26 ./generate/system/hwsetup.o
+ .debug_macro   0x000027a3       0x1f ./generate/system/hwsetup.o
+ .debug_macro   0x000027c2       0x26 ./generate/system/hwsetup.o
+ .debug_macro   0x000027e8       0x2d ./generate/system/hwsetup.o
+ .debug_macro   0x00002815       0x18 ./generate/system/hwsetup.o
+ .debug_macro   0x0000282d       0x18 ./generate/system/hwsetup.o
+ .debug_macro   0x00002845       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002856       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002867       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x00002878       0x26 ./generate/system/hwsetup.o
+ .debug_macro   0x0000289e       0x26 ./generate/system/hwsetup.o
+ .debug_macro   0x000028c4       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000028d5       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000028e6       0x11 ./generate/system/hwsetup.o
+ .debug_macro   0x000028f7      0x118 ./generate/system/hwsetup.o
+ .debug_macro   0x00002a0f       0x22 ./generate/system/hwsetup.o
+ .debug_macro   0x00002a31      0x47a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00002eab       0x10 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00002ebb      0x364 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000321f      0x666 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00003885      0x754 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00003fd9      0x690 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00004669      0x85e ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00004ec7     0x70fc ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000bfc3       0x52 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000c015      0x62e ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000c643      0x372 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000c9b5      0xdd6 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000d78b      0x25a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000d9e5     0x14f2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000eed7     0x1092 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0000ff69      0x17e ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000100e7      0x364 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0001044b     0x48ae ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00014cf9       0x3a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00014d33      0x3e2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00015115       0xb2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000151c7      0xe54 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0001601b      0x5f6 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00016611      0x460 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00016a71       0x5e ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00016acf      0x700 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000171cf      0x310 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000174df      0x232 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00017711      0x1ba ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000178cb      0x7b6 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00018081      0x25a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x000182db     0xe02a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00026305     0x78b2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002dbb7      0x3f0 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002dfa7      0x6ba ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002e661      0x3b8 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002ea19      0x2ae ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002ecc7      0x226 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002eeed      0x834 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002f721      0x3c6 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002fae7      0x4c2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x0002ffa9      0xc6a ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00030c13      0x232 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00030e45     0x2442 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00033287     0x22f2 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00035579      0x5be ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00035b37       0x82 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00035bb9       0x34 ./generate/system/r_spibsc_setup.o
+ .debug_macro   0x00035bed      0x126 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_macro   0x00035d13      0x4e5 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_macro   0x000361f8      0x304 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_macro   0x000364fc      0x62d ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_macro   0x00036b29      0x114 ./generate/compiler/init/sections.o
+
+.debug_line     0x00000000     0x47a3
+ .debug_line    0x00000000      0x971 ./generate/system/hwsetup.o
+ .debug_line    0x00000971      0xaea ./generate/system/r_spibsc_setup.o
+ .debug_line    0x0000145b      0x38a ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .debug_line    0x000017e5     0x12d0 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_line    0x00002ab5      0x8bc ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_line    0x00003371      0xf2f ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .debug_line    0x000042a0      0x2f5 ./generate/compiler/init/sections.o
+ .debug_line    0x00004595       0x99 ./generate/compiler/asm/initsect.o
+ .debug_line    0x0000462e       0xb5 ./generate/compiler/asm/reset_handler.o
+ .debug_line    0x000046e3       0x63 ./generate/compiler/asm/vector_table.o
+ .debug_line    0x00004746       0x5d ./generate/compiler/asm/vfp_init.o
+
+.debug_str      0x00000000   0x1257cd
+ .debug_str     0x00000000     0xab43 ./generate/system/hwsetup.o
+                               0xae9e (size before relaxing)
+ .debug_str     0x0000ab43   0x1188d4 ./generate/system/r_spibsc_setup.o
+                             0x1217d3 (size before relaxing)
+ .debug_str     0x00123417       0x8b ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+                               0x6d84 (size before relaxing)
+ .debug_str     0x001234a2     0x10c7 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+                             0x123095 (size before relaxing)
+ .debug_str     0x00124569      0x163 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+                               0x90c5 (size before relaxing)
+ .debug_str     0x001246cc     0x100e ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+                             0x12447e (size before relaxing)
+ .debug_str     0x001256da       0xf3 ./generate/compiler/init/sections.o
+                               0x6dd8 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./generate/system/hwsetup.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./generate/system/r_spibsc_setup.o
+ .comment       0x0000007f       0x80 ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .comment       0x0000007f       0x80 ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .comment       0x0000007f       0x80 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .comment       0x0000007f       0x80 ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .comment       0x0000007f       0x80 ./generate/compiler/init/sections.o
+
+.ARM.attributes
+                0x00000000       0x3b
+ .ARM.attributes
+                0x00000000       0x3d ./generate/system/hwsetup.o
+ .ARM.attributes
+                0x0000003d       0x3d ./generate/system/r_spibsc_setup.o
+ .ARM.attributes
+                0x0000007a       0x3d ./generate/drivers/r_spibsc/src/lld/r_spibsc_adjust_timing_data.o
+ .ARM.attributes
+                0x000000b7       0x3d ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .ARM.attributes
+                0x000000f4       0x3d ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .ARM.attributes
+                0x00000131       0x3d ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
+ .ARM.attributes
+                0x0000016e       0x3d ./generate/compiler/init/sections.o
+ .ARM.attributes
+                0x000001ab       0x2b ./generate/compiler/asm/initsect.o
+ .ARM.attributes
+                0x000001d6       0x2b ./generate/compiler/asm/reset_handler.o
+ .ARM.attributes
+                0x00000201       0x2b ./generate/compiler/asm/vector_table.o
+ .ARM.attributes
+                0x0000022c       0x2b ./generate/compiler/asm/vfp_init.o
+
+.debug_frame    0x00000000      0x3f8
+ .debug_frame   0x00000000       0x30 ./generate/system/hwsetup.o
+ .debug_frame   0x00000030       0x20 ./generate/system/r_spibsc_setup.o
+ .debug_frame   0x00000050      0x17c ./generate/drivers/r_spibsc/src/lld/r_spibsc_lld_rza2m.o
+ .debug_frame   0x000001cc      0x160 ./generate/drivers/r_spibsc/src/lld/r_spibsc_sflash_userdef.o
+ .debug_frame   0x0000032c       0xcc ./generate/drivers/r_cpg/src/lld/r_cpg_lld_rza2m.o
