@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+  <TITLE>README.html</TITLE>
+</HEAD>
+<BODY style="font-family: Arial">
+
+<p>﻿# rza2m<em>face</em>detection_demo</p>
+
+<p>Face Detection Demo with <a href="https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rz-cortex-a-mpus/rza2m-high-speed-embedded-ai-based-image-processing-microprocessors-dynamically-reconfigurable-processor">RZ/A2M</a>  </p>
+
+<p align="center"> 
+    <img src="https://github.com/renesas-rz/rza2m_face_detection_demo/blob/master/face_detection_demo.jpg" alt="">
+    <img src="https://github.com/renesas-rz/rza2m_face_detection_demo/blob/master/face_detection_concept.jpg" alt="">
+</p>
+
+<p>In the demo, we connect the Sony IMX219 CMOS sensor through MIPI interface, input a 1280x720 resolution image, and use DRP in RZ/A2M to perform Simple ISP processing and image scaling processing on the input image, and then run a light and efficient mask face detection model. It can achieve detect speed of 30FPS in the face detection mode, and a detection speed of 20FPS in the mode of distinguishing whether to wear a mask. </p>
+
+<p>Finally, the result is shown on a display (HDMI monitor).</p>
+
+<h3>Supported platforms:</h3>
+
+<ol>
+<li><p><a href="https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rz-cortex-a-mpus/rza2m-evaluation-kit-rza2m-evaluation-kit">RZ/A2M Evaluation Board Kit</a> <br />
+<a href="https://www.renesas.com/eu/en/software-tool/e-studio">e²studio</a> project name: “rza2m<em>face</em>detection<em>freertos</em>gcc_evk” <br />
+(<a href="https://www.renesas.com/eu/en/document/mat/e-studio-integrated-development-environment-users-manual-getting-started-renesas-mcu-rz-family?language=en&amp;r=488826">e²studio User’s Manual: Getting Started Guide / RZ Family</a>)</p></li>
+<li><p><a href="https://www.renesas.com/eu/en/products/gadget-renesas/boards/gr-mango">Gadget Renesas board “GR-MANGO”</a> <br />
+<a href="https://www.renesas.com/eu/en/software-tool/e-studio">e²studio</a> project name: “rza2m<em>face</em>detection<em>freertos</em>gcc_grmango” <br />
+(<a href="https://github.com/renesas-rz/rza2m_face_detection_demo/blob/master/rza2m_face_detection_freertos_gcc_grmango/doc/EPSD-IMB-20-0107-02_RZA2M_SoftwarePackage_for_GR-MANGO_Development_Environment_Construction.pdf">e²studio for GR-MANGO</a>; <a href="https://github.com/renesas-rz/rza2m_face_detection_demo/blob/master/rza2m_face_detection_freertos_gcc_grmango/doc/EPSD-IMB-20-0106-01_RZA2M_SoftwarePackage_for_GR-MANGO_Hands_on_Training.pdf">GR-MANGO 'hands-on'</a>)</p></li>
+</ol>
+
+<h3>Key features:</h3>
+
+<p><strong>MIPI 1280x720 camera input.</strong></p>
+
+<p><strong>Only use RZ/A2M internal 4MB memory.</strong></p>
+
+<p><strong>Support face detection &amp; mask detection.</strong></p>
+
+<p><strong>Face Detection performance: 30fps</strong></p>
+
+<p><strong>Face + Mask Detection performance: 15fps.</strong></p>
+
+<p>(<a href="https://www.renesas.com/eu/en/application/technologies/drp">DRP</a>).</p>
+
+<h3>More:</h3>
+
+<p>Please check the 
+<a href="https://github.com/renesas-rz/rza2m_face_detection_demo/blob/master/rza2m_face_detection_freertos_gcc_evk/doc/RZA2M_FaceDetection_demo_ApplicationNote_20210830.pdf">Application Note</a>
+for more details.</p>
+
+<p>Please contact your local Renesas Sales representative in case you like to get more information about <a href="https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rz-cortex-a-mpus/rza2m-high-speed-embedded-ai-based-image-processing-microprocessors-dynamically-reconfigurable-processor">RZ/A2M</a>, <a href="https://www.renesas.com/eu/en/application/technologies/drp">DRP</a></p>
+
+<h2>Q&amp;A</h2><hr>
+
+<p>Please contact us below if you have any questions.　
+&nbsp;<a href="https://renesasrulz.com/rz/rz-a2m-drp/f/rz-a2m-and-drp-forum">Q&amp;A Forum</a>  </p>
+
+</BODY>
+</HTML>
+
